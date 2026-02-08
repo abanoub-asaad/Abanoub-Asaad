@@ -4,13 +4,13 @@
 [![Most Active GitHub User Rank](https://enmc8bfz3mzv3r1.m.pipedream.net)](https://commits.top/egypt.html) -->
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Abanoub-Asaad)
 
-<img src="https://github-readme-stats.vercel.app/api?username=Abanoub-Asaad&show_icons=true&locale=en&theme=chartreuse-dark" align="right" alt="Abanoub" width="410" />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=Abanoub-Asaad&show_icons=true&locale=en&theme=chartreuse-dark" align="right" alt="Abanoub" width="410" /> -->
  
 <a href="https://stackoverflow.com/users/15864740/abanoub-asaad"><img src="https://stackoverflow.com/users/flair/15864740.png?theme=dark" width="208" height="58" alt="Profile for Abanoub Asaad on Stack Overflow" title="Profile for Abanoub Asaad on Stack Overflow"></a> <img width="100" height="58" alt="gif" src="https://github.com/Abanoub-Asaad/Abanoub-Asaad/blob/main/Images/pepe-frog.gif?raw=true" /> 
 
 ### About Me 🚀
 🎓 I’m a Computer Science Graduate from Ain Shams Uni. <br>
-👨‍💻 I'm interested in Open Source, Backend and Problem Solving <br>
+👨‍💻 I'm interested in Backend, Problem Solving, and Open Source <br>
 📧 How to reach me: abanoub.asaad200010@gmail.com 
 
 ### My Experiences 🙌
